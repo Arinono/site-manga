@@ -1,0 +1,4 @@
+---
+layout: FavoritePage
+home: false
+---
